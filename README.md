@@ -30,16 +30,16 @@ The Power BI dashboard provides interactive insights across four main areas:
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/dashboard_overview.png)
+![Executive Overview](dashboard_overview.png)
 
 ### Customer Insights
-![Customer Insights](images/customer_insights.png) 
+![Customer Insights](customer_insights.png)
 
 ### Logistics & Delivery
-![Logistics & Delivery](images/delivery_analysis.png)
+![Logistics & Delivery](delivery_analysis.png)
 
 ### Sales Trends
-![Sales Trends](images/sales_trends.png)
+![Sales Trends](sales_trends.png)
 
 ## Dataset
 Brazilian E-Commerce Public Dataset (Olist) from Kaggle.
